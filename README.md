@@ -38,8 +38,8 @@ This application provides an intuitive interface for browsing pets available for
 
 1. **Clone the repository**
 ```bash
-   git clone https://github.com/mideyharyor/adoptpetproject.git
-   cd adoptpetproject
+   git clone https://github.com/mideyharyor/adoptthepet.git
+   cd adoptthepet
 ```
 
 2. **Install dependencies**
@@ -81,7 +81,7 @@ This project demonstrates proficiency in:
 
 Beyond the Codecademy course materials:
 - React Router v6 Official Documentation
-- YouTube tutorials on modern React Router patterns
+- GreatStack — React Router Complete Tutorial (YouTube)
 - MDN Web Docs for JavaScript ES6+ features
 - React Official Documentation
 
